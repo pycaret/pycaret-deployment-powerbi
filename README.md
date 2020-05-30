@@ -1,4 +1,4 @@
-# How to deploy supervised model in Power BI using PyCaret
+# Machine Learning in Power BI using PyCaret
 
 A step-by-step tutorial for integrating Power BI with PyCaret. Read the complete post: https://towardsdatascience.com/machine-learning-in-power-bi-using-pycaret-34307f09394a
 
